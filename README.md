@@ -21,8 +21,6 @@ Frontend Developer | UI/UX Designer | Building Modern Websites 🚀
   <img src="https://komarev.com/ghpvc/?username=yealemzewud&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
-
 ## 🚀 About Me
 - 🔭 I’m currently working on **Home Cafe Jazz**
 - 🌱 I’m learning **React & Node.js**
@@ -31,18 +29,12 @@ Frontend Developer | UI/UX Designer | Building Modern Websites 🚀
 - 📫 Email: **yealemzewudfekadu26@gmail.com**
 - ⚡ Fun fact: **I am serious 😄**
 
----
-
 ## 💼 What I Do (Value)
 I build **modern, responsive, and user-friendly websites** that help businesses grow online 🌍
-
----
 
 ## 🔥 Featured Projects
 - 🍵 Home Cafe Jazz → https://home-cafe-jazz.onrender.com  
 - 🌐 Arifrate → https://arifrate-izad.onrender.com  
-
----
 
 ## 🤝 Connect with Me
 <p align="left">
@@ -50,8 +42,6 @@ I build **modern, responsive, and user-friendly websites** that help businesses 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
-
----
 
 ## 🧠 Skills & Tools
 <p align="left">
@@ -64,27 +54,18 @@ I build **modern, responsive, and user-friendly websites** that help businesses 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </p>
 
----
-
 ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yealemzewud&show_icons=true&theme=tokyonight" />
 </p>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yealemzewud&theme=tokyonight" />
 </p>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yealemzewud&layout=compact&theme=tokyonight" />
 </p>
-
----
-
 ## 🎯 Current Goal
 💡 Become a **Top Frontend Developer** and work with global clients 🌍
-
----
 
 <!-- 🔥 FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
