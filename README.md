@@ -1,14 +1,90 @@
-# 💫 About Me:
-😊 Hi, I’m Yealemzewud Fekadu<br><br>❤️ Passion: Technology & Software Development<br>💻 Focus: Web Development & UI/UX Design<br>⚙️ Skills: Learning React, Python, TypeScript<br>🌱 Level: Beginner (Improving Every Day)<br>🎯 Current Focus: Building Websites & Practicing Coding<br>🏆 Goal: Become a Top Developer in the Tech Industry<br>💡 Strength: Motivated & Always Learning<br>😎 Status: Self-Learner
+<!-- 🔥 HEADER / BACKGROUND -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Yealemzewud%20Fekadu&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
+<!-- 👋 INTRO -->
+<h1 align="center">Hi 👋, I'm Yealemzewud Fekadu</h1>
 
+<h3 align="center">
+Frontend Developer | UI/UX Designer | Building Modern Websites 🚀
+</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yealemzewud&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=yealemzewud&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yealemzewud&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- 🔥 TYPING EFFECT -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=22&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Learner;UI%2FUX+Designer;Building+Projects+Every+Day" />
+</p>
 
+<!-- 🖼️ GIF -->
+<img align="right" alt="coding" width="350" src="https://i.imgflip.com/9rfpor.gif">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 👁️ PROFILE VIEWS -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yealemzewud&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🔭 I’m currently working on **Home Cafe Jazz**
+- 🌱 I’m learning **React & Node.js**
+- 👯 I’m looking to collaborate on **Frontend Projects**
+- 💬 Ask me about **UI/UX & Web Design**
+- 📫 Email: **yealemzewudfekadu26@gmail.com**
+- ⚡ Fun fact: **I am serious 😄**
+
+---
+
+## 💼 What I Do (Value)
+I build **modern, responsive, and user-friendly websites** that help businesses grow online 🌍
+
+---
+
+## 🔥 Featured Projects
+- 🍵 Home Cafe Jazz → https://home-cafe-jazz.onrender.com  
+- 🌐 Arifrate → https://arifrate-izad.onrender.com  
+
+---
+
+## 🤝 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/yealemzewud-fekadu-02586530a" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🧠 Skills & Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yealemzewud&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yealemzewud&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yealemzewud&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Goal
+💡 Become a **Top Frontend Developer** and work with global clients 🌍
+
+---
+
+<!-- 🔥 FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
